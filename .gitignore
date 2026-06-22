@@ -1,0 +1,29 @@
+# Compiled output
+/out/
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*
+
+# Logs
+*.log
+
+# Database config (contains credentials)
+db.properties
+
+# Temp files
+temp_login.txt
