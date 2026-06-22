@@ -1,4 +1,4 @@
-# 在线票务系统 2.0 (Ticket System)
+# 在线票务系统(Ticket System)
 
 ## 项目简介
 
